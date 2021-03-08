@@ -1,0 +1,14 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "Basic hapi server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Pattanayak",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.0"
+  }
+}
